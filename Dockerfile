@@ -1,0 +1,1 @@
+FROM haishanh/yacd:latest
