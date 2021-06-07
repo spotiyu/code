@@ -1,0 +1,8 @@
+{
+  "name": "yacd",
+  "description": "Run yacd on Heroku.",
+  "keywords": ["yacd"],
+  "website": "https://github.com/spotiyu/code",
+  "repository": "https://github.com/spotiyu/code",
+  "stack": "container"
+}
